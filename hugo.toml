@@ -11,8 +11,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! I'm Katheryn Fox"
-      introSubtitle = "26 y/o junior developer who enjoys social card games, blogging and painting"
+      introTitle = "Hey! I'm Quantum Informer"
+      introSubtitle = "A blog site for Quantum Updates"
       introPhoto = "/picture.jpg"
     [[languages.en.menu.main]]
         name = "Blog"
@@ -53,7 +53,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2021 - Katheryn Fox · All rights reserved"
+  copyright = "Copyright © 2023 - Pawan Poudel · All rights reserved"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -107,7 +107,7 @@ DefaultContentLanguageInSubdir = true
 [params.homepage.social]
   # Global params common for both languages
   title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
+  description = "I will let you know about the new updates in Quantum Computing"
 
   [[params.homepage.social.icons]]
     website = "twitter"
@@ -125,32 +125,11 @@ DefaultContentLanguageInSubdir = true
     website = "github"
     url = "https://github.com/"
   [[params.homepage.social.icons]]
-    website = "buymeacoffee"
-    url = "https://www.buymeacoffee.com/"
-  [[params.homepage.social.icons]]
     website = "medium"
     url = "https://medium.com/"
   [[params.homepage.social.icons]]
-    website = "reddit"
-    url = "https://reddit.com/"
-  [[params.homepage.social.icons]]
-    website = "dribbble"
-    url = "https://dribbble.com/"
-  [[params.homepage.social.icons]]
-    website = "stackoverflow"
-    url = "https://stackoverflow.com/"
-  [[params.homepage.social.icons]]
-    website = "xda"
-    url = "https://forum.xda-developers.com/"
-  [[params.homepage.social.icons]]
-    website = "tiktok"
-    url = "https://tiktok.com"
-  [[params.homepage.social.icons]]
     website = "googlescholar"
     url = "https://scholar.google.com/"
-  [[params.homepage.social.icons]]
-    website = "mastodon"
-    url = "https://joinmastodon.org"
   [[params.homepage.social.icons]]
     website = "youtube"
     url = "https://youtube.com"
@@ -160,10 +139,7 @@ DefaultContentLanguageInSubdir = true
   [[params.homepage.social.icons]]
     website = "facebook"
     url = "https://facebook.com"
-  [[params.homepage.social.icons]]
-    website = "behance"
-    url = "https://behance.net"
-
+    
 [[menu.main]]
   name = "About"
   url = "/about"
